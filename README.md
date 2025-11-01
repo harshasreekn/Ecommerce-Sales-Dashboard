@@ -55,27 +55,27 @@ Quantity Sold: 31,261
 Month-on-Month Growth: +3.4%
 
 🔹 Tools Used
-Tool	Purpose
-SQL (MySQL)	Data cleaning & aggregation
-Power BI	Visualization & DAX calculations
-Excel	Dataset validation
-🔹 Dashboard Preview
-Dashboard View	Screenshot
-Main Dashboard	
+| Tool            | Purpose                          |
+| --------------- | -------------------------------- |
+| **SQL (MySQL)** | Data cleaning & aggregation      |
+| **Power BI**    | Visualization & DAX calculations |
+| **Excel**       | Dataset validation               |
 
-Category Trends	
+🔹 Dashboard Preview
+
+Screenshots of the Power BI dashboard showing overall sales trends and category insights.
+
 🔹 How to Use
 
-Clone or download the repository.
+1.Clone or download the repository.
 
-Open the .pbix file in Power BI Desktop.
+2.Open the .pbix file in Power BI Desktop.
 
-Connect your own dataset if needed and refresh visuals.
+3.Connect your own dataset if needed and refresh visuals.
 
 🔹 Author
 
 👩‍💻 Harshasree
 [LinkedIn](https://www.linkedin.com/in/contactharshasree)
-
 [GitHub](https://github.com/harshasreekn)
 
